@@ -24,4 +24,4 @@ Notes:
   * The first screen to show the developer i.e. `DEV_FIRST_SCREEN`
 9. For the above step, make sure that their changes **does not break other developer's environment on a merge, a push, or a pull.**
 10. **Optional**: Use Joi for validating the `username` and `password` field (You'll face a lot of errors when integrating Joi, and that's part of the test)
-10. Finally, send us your solution to abdullah@primekeeper.my
+10. Finally, send us your solution to clayton@primekeeper.my
