@@ -1,4 +1,4 @@
-* Primekeeper Backend test
+# Primekeeper Backend test
 
 Note: You're free to use any framework or library for this exercise.
 
